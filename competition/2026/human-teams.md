@@ -19,6 +19,8 @@ For the current rules, see the [rules overview](/competition/2026/rules/) and th
 - **Real-time play**: buzz in when you're confident; earlier correct answers score more
 - **In-person and online tracks**: compete at University of Maryland or remotely
 
+Check out last year's questions [here](https://drive.google.com/drive/folders/16T-Yx1S3WTs3t9qPr3r38AIaM-Unb65y). 
+
 ## Tournament Dates
 
 - **In-person tournament:** June 27, 2026
