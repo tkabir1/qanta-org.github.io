@@ -46,7 +46,7 @@ For more advice on writing strong adversarial questions, see [What's a Pyramidal
 
 Authors should first sign up here:
 
-- [Author Signup Form](https://docs.google.com/forms/d/1EVaDqkz7k2vJ6Ha3Mg9Hcez1pN1FlIRSZUBz-ip7BzU/edit)
+- [Author Signup Form](https://docs.google.com/forms/d/e/1FAIpQLSeNl4Dto7HhkkPqRJvTSd8QCSd9kjrUac5ZDp84i-xVYhKqZw/viewform)
 
 The preferred way to submit questions is through the submission interface:
 
