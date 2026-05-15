@@ -70,16 +70,18 @@ same raw accuracy).
 If the maximum size of a system in a class is C, and the registered
 size of a system is S, then the points V' for the system that had V
 raw points is:
-$$
-V' = V \left(1 - \frac{S}{C} \right)
-$$
+
+`V' = V * (1 - S / C)`
 
 ### Computing the Deflation
 
-We will publish an official plan for computing the deflation (taking
-into account base models for prompt-based systems) on May 1, allow
-potential submitters to comment until May 15, and we will publish the
-final framework May 18.
+We have now released the comparison framework for computing sizes across submission styles.
+
+- For prompt-based models, we will sum the size of the prompt and the models that are called, using a comparable Hugging Face model size estimate.
+- For retrieval-augmented or RAG-based models, we will sum the size of the model and the underlying datasets.
+- Docker-based submissions remain more flexible, but they also include setup overhead. To make Hugging Face style submissions more comparable, we will add **100 MB** to all Hugging Face submissions.
+
+The original comment deadline was **May 15, 2026**. Because this comparison framework is being released late, we are extending the feedback deadline to **June 1, 2026**.
 
 Feedback on the scoring framework or challenge metric should be sent to [emm-qa-organizers@googlegroups.com](mailto:emm-qa-organizers@googlegroups.com) by June 1, 2026.
 

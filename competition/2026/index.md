@@ -7,7 +7,9 @@ description: The world's first multimodal Quizbowl competition — combining tex
 
 # QANTA 2026: Efficient, Incremental Multimodal Question Answering
 
-<img src="{{ site.baseurl }}/assets/images/branding/icml_2026.png" alt="QANTA 2026 Competition" class="img-fluid rounded mb-4 d-block mx-auto" style="width: 25%; max-width: 100%;">
+<a href="/competition/2026/icml/">
+  <img src="{{ site.baseurl }}/assets/images/branding/icml_2026.png" alt="QANTA 2026 Competition" class="img-fluid rounded mb-4 d-block mx-auto" style="width: 25%; max-width: 100%;">
+</a>
 
 QANTA 2026 is the world's **first multimodal Quizbowl computer competition** — questions combine **text and images**, testing whether AI systems and human players can reason across modalities together.
 
@@ -16,6 +18,41 @@ QANTA 2026 raises the stakes: clues may include photographs, diagrams,
 artworks, maps, or scientific figures. Expert humans read images
 naturally — can AI do the same?  How much can computers help humans
 answer questions?
+
+We need you to take part to make this a success, and there are three ways to do that: writing questions, submitting systems, and playing as a human team.
+
+<div class="embed-responsive embed-responsive-16by9 mb-4">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VrsEn_69Nb8?si=ygfKMA1iSIXQCPeL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+## How to Participate
+
+There are three ways to join QANTA 2026:
+
+### Build a Multimodal AI Teammate
+Design a system that can interpret both text clues and images to answer quiz bowl questions. AI must handle visual reasoning, OCR, diagram interpretation, and cross-modal fusion — alongside the natural language understanding required for text-only questions.
+
+→ [Computer Teams](/competition/2026/computer-teams/)
+
+### Play as a Human
+Bring your trivia knowledge and visual reasoning skills. Team up with an AI agent to tackle multimodal questions — and help us understand how humans and AI complement each other across modalities.
+
+→ [Human Teams](/competition/2026/human-teams/)
+
+### Write Multimodal Questions
+Author pyramid-style questions that incorporate images alongside text clues. Receive **$5 per accepted question**. Questions should be adversarial for AI while remaining solvable by expert humans using the image and text together.
+
+→ [For Authors](/competition/2026/authors/)
+
+## Prizes
+
+QANTA 2026 includes prizes across competition tracks:
+
+- Placement awards for top human teams in the live event
+- Class-based (i.e., less than 500GB) awards for computer systems, plus special recognition
+- Awards for standout questions and packets, plus per-question payments for accepted writing
+
+> [Prizes and Awards](/competition/2026/prizes/)
 
 ## Competition structure
 
@@ -92,35 +129,6 @@ The **overview** explains how tossups and bonuses chain together in a match. **H
 > [Computer Rules](/competition/2026/rules/computer/)
 
 
-
-## Prizes
-
-QANTA 2026 includes prizes across competition tracks:
-
-- Placement awards for top human teams in the live event
-- Class-based (i.e., less than 500GB) awards for computer systems, plus special recognition
-- Awards for standout questions and packets, plus per-question payments for accepted writing
-
-> [Prizes and Awards](/competition/2026/prizes/)
-
-## How to Participate
-
-There are three ways to join QANTA 2026:
-
-### Build a Multimodal AI Teammate
-Design a system that can interpret both text clues and images to answer quiz bowl questions. AI must handle visual reasoning, OCR, diagram interpretation, and cross-modal fusion — alongside the natural language understanding required for text-only questions.
-
-→ [Computer Teams](/competition/2026/computer-teams/)
-
-### Play as a Human
-Bring your trivia knowledge and visual reasoning skills. Team up with an AI agent to tackle multimodal questions — and help us understand how humans and AI complement each other across modalities.
-
-→ [Human Teams](/competition/2026/human-teams/)
-
-### Write Multimodal Questions
-Author pyramid-style questions that incorporate images alongside text clues. Receive **$5 per accepted question**. Questions should be adversarial for AI while remaining solvable by expert humans using the image and text together.
-
-→ [For Authors](/competition/2026/authors/)
 
 ## Contact
 

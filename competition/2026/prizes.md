@@ -19,7 +19,7 @@ Top placements in the live human competition receive:
 ## Computer Team Prizes
 
 Computer systems are ranked using size-adjusted performance as
-described in the computer rules.
+described in the [computer rules](/competition/2026/rules/computer/).
 
 - **Top Computer Team per Class**: $200
 - **Second Place Computer Team per Class**: $100
