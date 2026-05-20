@@ -59,7 +59,7 @@ The workshop will also serve as the venue where we announce the winning systems 
 | 09:15&#8209;09:55 | 🟦 Sewon Min: TBA | 40 min |
 | 09:55&#8209;10:05 | Q&A | 10 min |
 | 10:05&#8209;10:50 | 🟨 Contributed Paper Spotlights | 45 min |
-| 10:50&#8209;11:50 | 🟧 Workshop Papers + Coffee | 60 min |
+| 10:50&#8209;11:50 | 🟧 Workshop Posters | 60 min |
 | 11:50&#8209;12:50 | Lunch | 60 min |
 | 12:50&#8209;13:20 | 🤖 Live AI QA Competition | 30 min |
 | 13:20&#8209;14:00 | 🟦 Mrinmaya Sachan: TBA | 40 min |
