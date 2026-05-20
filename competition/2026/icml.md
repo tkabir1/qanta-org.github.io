@@ -46,8 +46,37 @@ The workshop is planned as a one-day event combining:
 The workshop will also serve as the venue where we announce the winning systems from the QANTA 2026 computer competition.
 
 ## Schedule
+- Workshop takes place on July 11th.
+- All talk sessions (invited talks, spotlights, challenge talks, awards, etc.) will take place in the main workshop room at COEX.
+- All poster sessions will take place separately in **Hall A** outside the workshop room area at COEX.
 
-A detailed workshop schedule will be posted here soon.
+| Time | Activity | Duration |
+|---|---|---|
+| 08:00&#8209;08:10 | Welcome & Workshop Overview | 10 min |
+| 08:10&#8209;08:50 | 🟦 Robin Jia: TBA | 40 min |
+| 08:50&#8209;09:00 | Q&A | 10 min |
+| 09:00&#8209;09:15 | ☕ Coffee Break | 15 min |
+| 09:15&#8209;09:55 | 🟦 Sewon Min: TBA | 40 min |
+| 09:55&#8209;10:05 | Q&A | 10 min |
+| 10:05&#8209;10:50 | 🟨 Contributed Paper Spotlights | 45 min |
+| 10:50&#8209;11:50 | 🟧 Workshop Papers + Coffee | 60 min |
+| 11:50&#8209;12:50 | Lunch | 60 min |
+| 12:50&#8209;13:20 | 🤖 Live AI QA Competition | 30 min |
+| 13:20&#8209;14:00 | 🟦 Mrinmaya Sachan: TBA | 40 min |
+| 14:00&#8209;14:10 | Q&A | 10 min |
+| 14:10&#8209;14:50 | 🟦 Naman Goyal & Jenni Ni: Multimodal Robustness Under Distribution Shift | 40 min |
+| 14:50&#8209;15:00 | Q&A | 10 min |
+| 15:00&#8209;15:15 | ☕ Coffee Break | 15 min |
+| 15:15&#8209;15:35 | Shared Challenge Introduction & Results Overview | 20 min |
+| 15:35&#8209;15:55 | 🟨 Best Challenge Team Talks | 20 min |
+| 15:55&#8209;16:05 | 🏆 Challenge Awards | 10 min |
+| 16:05&#8209;16:10 | Closing Remarks | 5 min |
+| 16:10&#8209;17:00 | 🟧 Shared Challenge Posters | 50 min |
+
+### Legend
+- 🟦 Invited Talks  
+- 🟨 Contributed Paper Spotlights / Best Challenge Team Talk  
+- 🟧 Poster Sessions  
 
 ## Confirmed Keynote Speakers
 
