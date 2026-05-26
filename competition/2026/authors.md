@@ -11,7 +11,7 @@ QANTA 2026 introduces **multimodal questions** — pyramid-style tossups where s
 > Join the community on [Discord](https://discord.gg/E8Z6asZPRt).
 
 ## Rules
-- Submit under a single account at [qantanew.web.app/editor](https://qantanew.web.app/editor)
+- Submit under a single account at [https://advvqa-author-firebase.web.app/author/pyramidal](https://advvqa-author-firebase.web.app/author/pyramidal)
 - Questions must be original ("clean") — not previously published
 - No communication between question writers and computer competition teams
 - Distribution follows PACE guidelines
