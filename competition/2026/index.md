@@ -30,16 +30,19 @@ We need you to take part to make this a success, and there are three ways to do 
 There are three ways to join QANTA 2026:
 
 ### Build a Multimodal AI Teammate
+
 Design a system that can interpret both text clues and images to answer quiz bowl questions. AI must handle visual reasoning, OCR, diagram interpretation, and cross-modal fusion — alongside the natural language understanding required for text-only questions.
 
 → [Computer Teams](/competition/2026/computer-teams/)
 
 ### Play as a Human
+
 Bring your trivia knowledge and visual reasoning skills. Team up with an AI agent to tackle multimodal questions — and help us understand how humans and AI complement each other across modalities.
 
 → [Human Teams](/competition/2026/human-teams/)
 
 ### Write Multimodal Questions
+
 Author pyramid-style questions that incorporate images alongside text clues. Receive **$5 per accepted question**. Questions should be adversarial for AI while remaining solvable by expert humans using the image and text together.
 
 → [For Authors](/competition/2026/authors/)
@@ -99,7 +102,6 @@ opportunity to discuss your approaches with other system builders.
 >
 > [Call for Papers](/competition/2026/call-for-papers/)
 
-
 ## Important Dates
 
 | Deadline | Date |
@@ -107,10 +109,11 @@ opportunity to discuss your approaches with other system builders.
 | [Workshop Paper Round 1 Submission](/competition/2026/call-for-papers/) | May 8, 2026 (AoE) |
 | [Workshop Paper Round 1 Notification](/competition/2026/call-for-papers/) | May 22, 2026 (AoE) |
 | [Workshop Paper Round 2 Submission](/competition/2026/call-for-papers/) | May 29, 2026 (AoE) |
-| [Question Submission](/competition/2026/authors/) | June 1, 2026 |
 | [Scoring Feedback Deadline](/competition/2026/rules/computer/) | June 1, 2026 |
+| [Writer Question Submission](/competition/2026/authors/) | June 7, 2026 |
 | [Workshop Paper Round 2 Notification](/competition/2026/call-for-papers/) | June 10, 2026 (AoE) |
-| [Final System Submission](/competition/2026/computer-teams/) | June 15, 2026 |
+| [Final System Submission](/competition/2026/computer-teams/) | June 17, 2026 |
+| [Editor Packet Submission](/competition/2026/authors/) | June 17, 2026 |
 | [Player Registration](/competition/2026/human-teams/) | June 21, 2026 |
 | [System Description Paper Submission](/competition/2026/call-for-papers/)| June 22, 2026 |
 | [In-Person Tournament](/competition/2026/human-teams/) | June 27, 2026 |
@@ -127,8 +130,6 @@ The **overview** explains how tossups and bonuses chain together in a match. **H
 > [Human Rules](/competition/2026/rules/human/)
 >
 > [Computer Rules](/competition/2026/rules/computer/)
-
-
 
 ## Contact
 

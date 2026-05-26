@@ -45,7 +45,7 @@ In general, we expect the first deadline to be used more often for general works
 - Warmup data release: May 22, 2026
 - Test data release: June 1, 2026
 - Challenge metric / scoring feedback deadline: June 1, 2026
-- **Last system submission: June 15, 2026**
+- **Last system submission: June 17, 2026**
 - System Description Paper Submission: June 22, 2026
 - In-person human competition: June 27, 2026
 - Online human competition: June 28, 2026
