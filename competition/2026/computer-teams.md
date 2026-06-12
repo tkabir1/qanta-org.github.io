@@ -85,6 +85,8 @@ Each **part** is evaluated with the leadin plus that part’s text (and any imag
 
 First, register at [qanta-challenge/register](https://huggingface.co/spaces/qanta-challenge/register).
 
+Check submitted results on the [QANTA leaderboard](https://huggingface.co/spaces/qanta-challenge/leaderboard). You must log into Hugging Face to see leaderboard results.
+
 Then, sign in with **Hugging Face** in the submission Space, and use one of the supported submission paths:
 
 ### 1. Prompting / workflow interface (default)
