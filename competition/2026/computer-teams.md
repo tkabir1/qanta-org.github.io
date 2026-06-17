@@ -101,9 +101,9 @@ On the **Tossup Agents** or **Bonus Round Agents** tab:
 
 Use the **Hugging Face Pipelines** tab to submit a **public, non-gated** model on the Hub that loads with `transformers.pipeline`, following the tables in **API and technical requirements** above (including optional multimodal `images` when your pipeline supports them).
 
-### Docker image submission — *coming soon*
+### 3. Docker image submission
 
-Some teams will want to submit a **Docker image** that runs their own inference stack end-to-end, instead of using the prompting workflow UI or a Hub `pipeline` model. **That option is not available yet.** We plan to support **container-based submissions** in a future update; until then, use the **workflow / prompting** path or the **Hugging Face Pipelines** path above.
+Some teams will want to submit a **Docker image** that runs their own inference stack end-to-end, instead of using the prompting workflow UI or a Hub `pipeline` model. We support **container-based submissions** in the Docker tab of the submission interface.
 
 For future announcements stay on the mailing list: [emm-qa-organizers@googlegroups.com](mailto:emm-qa-organizers@googlegroups.com)
 
