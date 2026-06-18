@@ -112,8 +112,8 @@ opportunity to discuss your approaches with other system builders.
 | [Scoring Feedback Deadline](/competition/2026/rules/computer/) | June 1, 2026 |
 | [Writer Question Submission](/competition/2026/authors/) | June 7, 2026 |
 | [Workshop Paper Round 2 Notification](/competition/2026/call-for-papers/) | June 10, 2026 (AoE) |
-| [Final System Submission](/competition/2026/computer-teams/) | June 17, 2026 |
 | [Editor Packet Submission](/competition/2026/authors/) | June 17, 2026 |
+| [Final System Submission](/competition/2026/computer-teams/) | June 20, 2026 |
 | [Player Registration](/competition/2026/human-teams/) | June 21, 2026 |
 | [System Description Paper Submission](/competition/2026/call-for-papers/)| June 22, 2026 |
 | [In-Person Tournament](/competition/2026/human-teams/) | June 27, 2026 |
