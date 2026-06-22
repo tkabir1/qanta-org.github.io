@@ -3,6 +3,17 @@ layout: article
 title: "EMM-QA 2026: Call for Papers"
 permalink: /competition/2026/call-for-papers/
 ---
+# ICML 2026 Workshop on Efficient Multimodal Question Answering (EMM-QA)
+
+<img src="{{ site.baseurl }}/assets/images/branding/icml_2026.png" alt="EMM-QA logo" class="img-fluid mb-4 d-block mx-auto" style="width: 28%; max-width: 100%;">
+
+<span style="color:gray">Efficient multimodal question answering in the era of large language models</span>
+
+The ICML 2026 Workshop on Efficient Multimodal Question Answering (EMM-QA) invites submissions on methods, resources, evaluations, and systems for question answering over multimodal inputs under realistic resource constraints. The workshop focuses on balancing answer quality with efficiency in modern QA systems, especially in the age of large language models.
+
+## Workshop Schedule
+Is available at the [workshop website](/competition/2026/icml/).
+
 # EMM-QA Challenge Paper Submission
 
 Teams participating in the EMM-QA Challenge are invited to submit a short paper describing their Multimodal AI Teammate.
@@ -16,17 +27,6 @@ For example:
 Submitted papers, together with author information, will be published on the workshop website.
 Thank you for taking part in the EMM-QA Challenge — we look forward to seeing your teammates in action!
 
-
-# ICML 2026 Workshop on Efficient Multimodal Question Answering (EMM-QA)
-
-<img src="{{ site.baseurl }}/assets/images/branding/icml_2026.png" alt="EMM-QA logo" class="img-fluid mb-4 d-block mx-auto" style="width: 28%; max-width: 100%;">
-
-<span style="color:gray">Efficient multimodal question answering in the era of large language models</span>
-
-The ICML 2026 Workshop on Efficient Multimodal Question Answering (EMM-QA) invites submissions on methods, resources, evaluations, and systems for question answering over multimodal inputs under realistic resource constraints. The workshop focuses on balancing answer quality with efficiency in modern QA systems, especially in the age of large language models.
-
-## Workshop Schedule
-Is available at the [workshop website](/competition/2026/icml/).
 
 ## Website and Contact
 
