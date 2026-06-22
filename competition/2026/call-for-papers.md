@@ -3,6 +3,19 @@ layout: article
 title: "EMM-QA 2026: Call for Papers"
 permalink: /competition/2026/call-for-papers/
 ---
+# EMM-QA Challenge Paper Submission
+
+Teams participating in the EMM-QA Challenge are invited to submit a short paper describing their Multimodal AI Teammate.
+Please use the standard ICML format. Papers may be up to 8 pages long, excluding references and appendices.
+Please send your paper by email to [martin.fajcik@vut.cz](mailto:martin.fajcik@vut.cz) and start the subject line with **EMM-QA paper submission**.
+
+For example:
+
+> **Subject:** `EMM-QA paper submission: Teaming Up to Question Everything`
+
+Submitted papers, together with author information, will be published on the workshop website.
+Thank you for taking part in the EMM-QA Challenge — we look forward to seeing your teammates in action!
+
 
 # ICML 2026 Workshop on Efficient Multimodal Question Answering (EMM-QA)
 
