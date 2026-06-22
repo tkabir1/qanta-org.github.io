@@ -14,7 +14,7 @@ The ICML 2026 Workshop on Efficient Multimodal Question Answering (EMM-QA) invit
 ## Workshop Schedule
 Is available at the [workshop website](/competition/2026/icml/).
 
-# EMM-QA Challenge Paper Submission
+## EMM-QA Challenge Paper Submission
 
 Teams participating in the EMM-QA Challenge are invited to submit a paper describing their Multimodal AI Teammate.
 Please use the standard ICML format. Papers may be up to 8 pages long, excluding references and appendices.
