@@ -51,14 +51,14 @@ The 2021 tossup release is the main benchmark dataset for modern QANTA work:
 ### QANTA Tossup Dataset 
 
 ~100k pyramid-style quiz bowl tossup questions with full text, answers, and metadata (category, tournament, year).
-#### (2021)
+#### 2021
 
 | Split | Download |
 |---|---|
 | Train | [Download](https://huggingface.co/datasets/TasnimKabir12/qanta/resolve/main/qanta.train.2021.12.20.json?download=1) |
 | Dev | [Download](https://huggingface.co/datasets/TasnimKabir12/qanta/resolve/main/qanta.dev.2021.12.20.json?download=1) |
 
-#### (2018)
+#### 2018
 
 | Split | Download |
 |---|---|
