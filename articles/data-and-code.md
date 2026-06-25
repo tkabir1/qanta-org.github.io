@@ -37,7 +37,7 @@ Computer-friendly data derived directly from quiz bowl data:
 
 | Data Direct Download | Huggingface Link | Description | Code |
 |---|---|---|---|
-| [QANTA main datasets](/data-and-code/) | - | Canonical QANTA question data and related dataset docs | [Pinafore/qb]({{ site.github.main }}) |
+| [QANTA main datasets](/data-and-code/) | QANTA_dataset(https://huggingface.co/datasets/TasnimKabir12/qanta) | Canonical QANTA question data and related dataset docs | [Pinafore/qb]({{ site.github.main }}) |
 | - | [Quizbowl human responses](https://huggingface.co/collections/mgor/quizbowl-66f8541f46d413c380669551) | Human answer traces and response behavior data | [maharshi95/neural-irt](https://github.com/maharshi95/neural-irt) |
 | - | - | Naturalized questions derived from trivia-style QA | [Pinafore/qb2nq](https://github.com/Pinafore/qb2nq) |
 | [Adversarial questions JSON](../downloads/2019_tacl_trick.json) | - | Adversarial examples in compatible QA format | [Eric-Wallace/trickme-interface](https://github.com/Eric-Wallace/trickme-interface) |
@@ -48,14 +48,22 @@ Computer-friendly data derived directly from quiz bowl data:
 
 The 2021 tossup release is the main benchmark dataset for modern QANTA work:
 
-### QANTA Tossup Dataset (2021)
+### QANTA Tossup Dataset 
 
 ~100k pyramid-style quiz bowl tossup questions with full text, answers, and metadata (category, tournament, year).
+####(2021)
 
 | Split | Download |
 |---|---|
 | Train | [Download](https://huggingface.co/datasets/TasnimKabir12/qanta/resolve/main/qanta.train.2021.12.20.json?download=1) |
 | Dev | [Download](https://huggingface.co/datasets/TasnimKabir12/qanta/resolve/main/qanta.dev.2021.12.20.json?download=1) |
+
+####(2018)
+
+| Split | Download |
+|---|---|
+| Train | [Download](https://huggingface.co/datasets/TasnimKabir12/qanta/resolve/main/qanta.train.2018.04.18.json?download=1) |
+| Dev | [Download](https://huggingface.co/datasets/TasnimKabir12/qanta/resolve/main/qanta.dev.2018.04.18.json?download=1) |
 
 **Code**: [github.com/Pinafore/qb](https://github.com/Pinafore/qb)
 
