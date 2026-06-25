@@ -39,7 +39,7 @@ Computer-friendly data derived directly from quiz bowl data:
 |---|---|---|---|
 | [QANTA main datasets](/data-and-code/) | [QANTA_dataset](https://huggingface.co/datasets/TasnimKabir12/qanta) | Canonical QANTA question data and related dataset docs | [Pinafore/qb]({{ site.github.main }}) |
 | - | [Quizbowl human responses](https://huggingface.co/collections/mgor/quizbowl-66f8541f46d413c380669551) | Human answer traces and response behavior data | [maharshi95/neural-irt](https://github.com/maharshi95/neural-irt) |
-| - | - | Naturalized questions derived from trivia-style QA | [Pinafore/qb2nq](https://github.com/Pinafore/qb2nq) |
+| - | [QB2NQ](https://huggingface.co/datasets/TasnimKabir12/QB2NQ) | Naturalized questions derived from trivia-style QA | [Pinafore/qb2nq](https://github.com/Pinafore/qb2nq) |
 | [Adversarial questions JSON](../downloads/2019_tacl_trick.json) | - | Adversarial examples in compatible QA format | [Eric-Wallace/trickme-interface](https://github.com/Eric-Wallace/trickme-interface) |
 
 ---
