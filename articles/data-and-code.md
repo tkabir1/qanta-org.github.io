@@ -63,10 +63,7 @@ The 2021 tossup release is the main benchmark dataset for modern QANTA work:
 | Split | Download |
 |---|---|
 | Train | [Download](https://huggingface.co/datasets/TasnimKabir12/qanta/resolve/main/qanta.train.2018.04.18.json?download=1) |
-| Dev | <a href="https://huggingface.co/datasets/TasnimKabir12/qanta/resolve/main/qanta.dev.2018.04.18.json"
-   download>
-  Download
-</a> |
+| Dev | [Download](https://huggingface.co/datasets/TasnimKabir12/qanta/resolve/main/qanta.dev.2018.04.18.json?download=true) |
 
 **Code**: [github.com/Pinafore/qb](https://github.com/Pinafore/qb)
 
