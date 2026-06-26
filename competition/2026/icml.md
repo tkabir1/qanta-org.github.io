@@ -53,7 +53,7 @@ The workshop will also serve as the venue where we announce the winning systems 
 | Time | Activity | Duration |
 |---|---|---|
 | 08:00&#8209;08:10 | Welcome & Workshop Overview | 10 min |
-| 08:10&#8209;08:50 | 🟦 Robin Jia: TBA | 40 min |
+| 08:10&#8209;08:50 | 🟦 Naman Goyal & Jenny Ni: Multimodal Robustness Under Distribution Shift | 40 min |
 | 08:50&#8209;09:00 | Q&A | 10 min |
 | 09:00&#8209;09:15 | ☕ Coffee Break | 15 min |
 | 09:15&#8209;09:55 | 🟦 Sewon Min: TBA | 40 min |
@@ -64,7 +64,7 @@ The workshop will also serve as the venue where we announce the winning systems 
 | 12:50&#8209;13:20 | 🤖 Live AI QA Competition | 30 min |
 | 13:20&#8209;14:00 | 🟦 Mrinmaya Sachan: TBA | 40 min |
 | 14:00&#8209;14:10 | Q&A | 10 min |
-| 14:10&#8209;14:50 | 🟦 Naman Goyal & Jenny Ni: Multimodal Robustness Under Distribution Shift | 40 min |
+| 14:10&#8209;14:50 | 🟦 Robin Jia: TBA | 40 min |
 | 14:50&#8209;15:00 | Q&A | 10 min |
 | 15:00&#8209;15:15 | ☕ Coffee Break | 15 min |
 | 15:15&#8209;15:35 | Shared Challenge Introduction & Results Overview | 20 min |
